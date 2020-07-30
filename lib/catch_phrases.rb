@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  linkspeech=
+  linkspeech= "It's Dangerous To Go Alone! Take This."
+  puts linkspeech
+end
