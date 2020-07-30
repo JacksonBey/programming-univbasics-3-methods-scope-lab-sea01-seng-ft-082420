@@ -12,3 +12,9 @@ def link
   linkspeech= "It's Dangerous To Go Alone! Take This."
   puts linkspeech
 end
+
+def all_phrases
+  Mario
+  toadstool
+  link
+end
